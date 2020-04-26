@@ -8,7 +8,7 @@ public class User {
     private final String adrr;
     private final Date briday;
 
-    public User(Builder builder){
+    private User(Builder builder){
         this.name = builder.name;
         this.briday = builder.briday;
         this.adrr = builder.addr;
