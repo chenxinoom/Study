@@ -1,53 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="06189d53-a178-451b-90ba-6ca32bf5c3aa" name="Default Changelist" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/cmd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/CmdTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ProcessBuildTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ShellUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/SqlUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/cmdMysql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/RuleContoller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/entry/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/RuleTestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleTestServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/SpringContextUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/RuleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/log.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/java/LogText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/czx/fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/czx/text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/czx/zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/java/com/czx1/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/src/main/resources/logbackxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ZTJ/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/classTest/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nio/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nio/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/queue/LinkedBlockQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/queue/SyschronousQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stream/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/BlockedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/CASTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/CompletableFutureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/ConcurrentLinkedQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/DebugTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/DelayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/ExecutorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/ForkJoinPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/GuavaRateLImiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/PSerch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/SchedulerThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/build/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/build/ZTJTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/cmd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/CmdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ProcessBuildTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ShellUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/SqlUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/cmdMysql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/config/MybatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/RuleContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/entry/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/RuleTestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleTestServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/Condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/SpringContextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/static/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/RuleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/java/LogText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/java/com/czx/fu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/java/com/czx/text.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/java/com/czx/zi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/java/com/czx1/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/src/main/resources/logbackxml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/build/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/build/User.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/demo/target/" />
-    <ignored path="$PROJECT_DIR$/log/target/" />
-    <ignored path="$PROJECT_DIR$/cmd/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,123 +104,18 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/build/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="26" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/src/main/resources/logback.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>SQLException</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/dao/DevopeDao.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/DevopeService.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/DevopeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/Controller/TestMain.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/dao/user.xml" />
-        <option value="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/DemoApplicationTests.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/rulecontoller.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/Rulecontoller.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/CommandResult.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/DemoApplication.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/CommandCondition.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/Result.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/ruleService.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/static/pages/index。html.html" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/static/pages/index.html" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils/Condition.java" />
-        <option value="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/RuleTest.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/RuleTestService.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/entry/Class.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/test/User.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/test/Student.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/test/People.java" />
-        <option value="$PROJECT_DIR$/demo/src/test/java/com/czx/demo/Test.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/demo/pom.xml" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/config/MybatisConfig.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/entry/User.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleTestServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/TestMain.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/RuleContoller.java" />
-        <option value="$PROJECT_DIR$/log/pom.xml" />
-        <option value="$PROJECT_DIR$/log/src/main/java/LogText.java" />
-        <option value="$PROJECT_DIR$/log/src/main/resources/logback-test.fxml" />
-        <option value="$PROJECT_DIR$/log/src/main/resources/logback1.xml" />
-        <option value="$PROJECT_DIR$/log/src/main/resources/logback-text.xml" />
-        <option value="$PROJECT_DIR$/log/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ProcessBuildTest.java" />
-        <option value="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/CmdTest.java" />
-        <option value="$PROJECT_DIR$/log/src/main/java/com/czx/zi.java" />
-        <option value="$PROJECT_DIR$/log/src/main/java/com/czx/fu.java" />
-        <option value="$PROJECT_DIR$/log/src/main/java/com/czx/text.java" />
-        <option value="$PROJECT_DIR$/log/src/main/java/com/czx1/test.java" />
-        <option value="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ShellUtil.java" />
-        <option value="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/SqlUtil.java" />
-        <option value="$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/cmdMysql.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/build/User.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -194,81 +126,14 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8.0_241" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1235" />
-    <option name="y" value="244" />
-    <option name="width" value="1575" />
-    <option name="height" value="1287" />
-  </component>
+  <component name="ProjectId" id="1jBohL7RFvNsMxn8k86Y6yWoF6n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -276,6 +141,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586618942543" />
@@ -285,33 +151,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.thread" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demo/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/demo/src/main/java/com/czx/demo/utils" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="ShellUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czx.cmd.ShellUtil" />
-      <module name="cmd" />
+  <component name="RunManager" selected="Application.EnumTest">
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ZTJ.EnumTest" />
+      <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czx.cmd.*" />
+          <option name="PATTERN" value="com.ZTJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqlUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czx.cmd.SqlUtil" />
-      <module name="cmd" />
+    <configuration name="ExecutorsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.ExecutorsTest" />
+      <module name="Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czx.cmd.*" />
+          <option name="PATTERN" value="com.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,38 +189,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.build.Test" />
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classTest.ProxyTest" />
+      <module name="Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchedulerThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.SchedulerThreadPoolTest" />
+      <module name="Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZTJTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.build.ZTJTest" />
       <module name="Study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.build.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cmdMysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czx.cmd.cmdMysql" />
-      <module name="cmd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.czx.cmd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czx.text" />
-      <module name="log" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.czx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,17 +231,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ShellUtil" />
-        <item itemvalue="Application.cmdMysql" />
-        <item itemvalue="Application.SqlUtil" />
-        <item itemvalue="Application.text" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.ZTJTest" />
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.ExecutorsTest" />
+        <item itemvalue="Application.SchedulerThreadPoolTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -445,122 +294,50 @@
       <workItem from="1586310941115" duration="4467000" />
       <workItem from="1586618901317" duration="80000" />
       <workItem from="1587030387953" duration="518000" />
-      <workItem from="1587869379985" duration="222000" />
+      <workItem from="1587869379985" duration="499000" />
+      <workItem from="1587872546411" duration="7000" />
+      <workItem from="1588857882203" duration="69000" />
+      <workItem from="1603286966089" duration="3783000" />
+      <workItem from="1603460649004" duration="1711000" />
+      <workItem from="1603502240016" duration="110000" />
+      <workItem from="1603599116628" duration="2838000" />
+      <workItem from="1603614846952" duration="4776000" />
+      <workItem from="1603718623739" duration="145000" />
+      <workItem from="1603721307600" duration="18000" />
+      <workItem from="1603721330487" duration="471000" />
+      <workItem from="1603721820875" duration="1835000" />
+      <workItem from="1603806985379" duration="2741000" />
+      <workItem from="1604067921599" duration="561000" />
+      <workItem from="1604071424959" duration="908000" />
+      <workItem from="1604113027466" duration="2056000" />
+      <workItem from="1604196510331" duration="15621000" />
+      <workItem from="1604408001508" duration="5329000" />
+      <workItem from="1604498195051" duration="6016000" />
+      <workItem from="1604575867868" duration="6513000" />
+      <workItem from="1604713581113" duration="11278000" />
+      <workItem from="1605092750122" duration="3123000" />
+      <workItem from="1605345299584" duration="1017000" />
+      <workItem from="1605447012565" duration="1506000" />
+      <workItem from="1605526356435" duration="64000" />
+      <workItem from="1605534643595" duration="2768000" />
+      <workItem from="1605620845942" duration="621000" />
+      <workItem from="1606926350215" duration="3000" />
+      <workItem from="1606926692195" duration="20000" />
+      <workItem from="1607005290682" duration="465000" />
+      <workItem from="1608258424801" duration="509000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1587869655177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587869655177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="Test_test03 - 2020.03.19 at 16h 30m 48s.xml">
-      <configuration name="Test.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test03 - 2020.03.19 at 16h 32m 52s.xml">
-      <configuration name="Test.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_test03 - 2020.03.19 at 19h 28m 11s.xml">
-      <configuration name="Test.test03" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.19 at 22h 44m 22s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.19 at 22h 45m 03s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.19 at 22h 46m 34s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.19 at 22h 47m 02s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.19 at 22h 55m 20s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.19 at 22h 57m 16s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Test04 - 2020.03.20 at 13h 40m 53s.xml">
-      <configuration name="Test.Test04" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134657000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1235" y="244" width="1575" height="1287" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46945608" visible="true" weight="0.32876712" />
-      <window_info id="Structure" order="1" sideWeight="0.5305439" side_tool="true" weight="0.31311154" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967384" weight="0.67953986" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991632" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49902153" weight="0.3958159" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50097847" side_tool="true" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32970712" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49902153" weight="0.32860667" />
-      <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24983692" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.5531637" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32941943" />
-      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4753004" visible="true" weight="0.2824527" />
-      <window_info id="Structure" order="2" sideWeight="0.5246996" side_tool="true" weight="0.2824527" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Java Enterprise" order="1" />
-      <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49967384" weight="0.32903227" />
-      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49902153" weight="0.39596775" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50097847" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32983872" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49902153" weight="0.32903227" />
-      <window_info anchor="right" id="Bean Validation" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.5531637" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="9" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -577,22 +354,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -611,6 +373,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
@@ -628,569 +391,127 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/UserServiceImpl.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/CmdTest.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ProcessBuildTest.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/PSerch.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/build/Sort.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/build/Sort.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nio/NIOServer.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/DebugTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/DebugTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/DebugTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/DebugTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/DebugTest.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ForkJoinPoolTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/SchedulerThreadPoolTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1127</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ExecutorsTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>623</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>956</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classTest/ProxyTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java</url>
+          <line>707</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classTest/ProxyTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/build/ZTJTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ZTJ/EnumTest.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="96" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>i==50</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>params.getClass()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>params</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>initializers</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>primarySources</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/src/test/java/com/czx/demo/RuleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/entry/Class.java" />
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/test/People.java" />
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/test/Student.java" />
-    <entry file="file://$PROJECT_DIR$/demo/src/test/java/com/czx/demo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/entry/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/static/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#form#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/RuleContoller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleTestServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/config/MybatisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#655#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/RuleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/RuleTestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/controller/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/czx/demo/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/elf-client/error/2020-03-26.log" />
-    <entry file="file://$PROJECT_DIR$/log/logs/elf-client/error/2020-03-26.log" />
-    <entry file="file://$PROJECT_DIR$/log/target/logs/elf-client/info/2020-03-26.log" />
-    <entry file="file://$PROJECT_DIR$/log/logs/elf-client/info/2020-03-26.log" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="1832" column="12" selection-start-line="1832" selection-start-column="12" selection-end-line="1832" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/log.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="uml://MAVEN/com.czx:log:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.czx:log:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="380.5" y="158.0">com.czx:log:1.0-SNAPSHOT</node>
-            <node x="53.0" y="79.0">ch.qos.logback:logback-classic:jar:1.2.3</node>
-            <node x="0.0" y="0.0">ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-            <node x="137.0" y="0.0">ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="206.0" y="79.0">commons-logging:commons-logging:jar:1.2</node>
-            <node x="560.0" y="79.0">commons-logging:commons-logging-api:jar:1.2</node>
-            <node x="376.0" y="79.0">junit:junit:jar:4.12</node>
-            <node x="344.0" y="0.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="457.0" y="79.0">com.alibaba:fastjson:jar:1.2.66</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="ch.qos.logback:logback-classic:jar:1.2.3" target="ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="33.25" y="-14.5" />
-              <point x="152.75" y="54.0" />
-              <point x="180.5" y="54.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.czx:log:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.czx:log:1.0-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.66">
-              <point x="10.399999999999977" y="-14.5" />
-              <point x="416.9" y="128.0" />
-              <point x="498.5" y="128.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.czx:log:1.0-SNAPSHOT" target="commons-logging:commons-logging-api:jar:1.2">
-              <point x="20.80000000000001" y="-14.5" />
-              <point x="427.3" y="138.0" />
-              <point x="648.5" y="138.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="ch.qos.logback:logback-classic:jar:1.2.3" target="ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
-              <point x="-33.25" y="-14.5" />
-              <point x="86.25" y="54.0" />
-              <point x="58.5" y="54.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.czx:log:1.0-SNAPSHOT" target="commons-logging:commons-logging:jar:1.2">
-              <point x="-10.399999999999977" y="-14.5" />
-              <point x="396.1" y="128.0" />
-              <point x="281.0" y="128.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.czx:log:1.0-SNAPSHOT" target="ch.qos.logback:logback-classic:jar:1.2.3">
-              <point x="-20.80000000000001" y="-14.5" />
-              <point x="385.7" y="138.0" />
-              <point x="119.5" y="138.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-19.0" y="67.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/resources/logback-test.fxml" />
-    <entry file="file://$PROJECT_DIR$/log/src/main/resources/logbackxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/java/LogText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ProcessBuildTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/sourceCode/JavaSourceLearn/src/com/czx/source/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28084">
-          <caret line="1698" column="38" selection-start-line="1698" selection-start-column="38" selection-end-line="1698" selection-end-column="38" />
-          <folding>
-            <element signature="e#72099#72100#0" expanded="true" />
-            <element signature="e#72153#72154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/sourceCode/JavaSourceLearn/src/com/czx/source/java/lang/ProcessBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2992">
-          <caret line="206" column="32" selection-start-line="206" selection-start-column="32" selection-end-line="206" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/sourceCode/JavaSourceLearn/src/com/czx/source/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/java/com/czx/zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/java/com/czx/fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/java/com/czx1.java" />
-    <entry file="file://$PROJECT_DIR$/log/src/main/java/com/czx/text.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/java/com/czx1/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/sourceCode/JavaSourceLearn/src/com/czx/source/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="142" column="5" selection-start-line="142" selection-start-column="5" selection-end-line="142" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oracle.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/SqlUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/cmdMysql.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/ShellUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/build/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/src/main/java/com/czx/cmd/CmdTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/build/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8.0_241</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>cmd</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
